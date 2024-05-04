@@ -10,9 +10,7 @@ python3.10 -m venv NombreEnv
 
 Paso 3) Para cargar el entorno debe ejecutar el archivo activate que está en la siguiente dirección:
 ```bash
-NombreEnv\Scripts\activate (cmd)
-.\NombreEnv\Scripts\Activate (powershell)
-.\ML\Scripts\Activate
+.\NombreEnv\Scripts\Activate
 ```
 
 Paso 4) Una vez cargardo el entorno debe instalar las librerias necesarias, estas están en el archivo MLrequirements.txt.

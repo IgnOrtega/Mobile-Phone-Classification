@@ -1,7 +1,7 @@
 # Nota importante:  
-Los proyectos de la carpeta ProyectosML fueron generados a partir de Python v3.10 y se utilizaron las librerias que están en el archivo MLrequirements.txt. Para ejecutar los códigos de la carpeta ProyectosML puede generar un entorno, a continuación se muestra como:  
+Los proyectos de la carpeta ProyectosML fueron generados a partir de Python v3.11 y se utilizaron las librerias que están en el archivo last_requirements.txt. Para ejecutar los códigos de la carpeta ProyectosML puede generar un entorno, a continuación se muestra como:  
 
-Paso 1) Abrir una terminal, ya sea cmd, powershell:
+Paso 1) Abrir una terminal (powershell):
 
 Paso 2) Crear un entorno virtual en cierto lugar:  
 ```bash

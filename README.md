@@ -1,3 +1,15 @@
+# Acerca del proyecto:  
+Este proyecto consiste en clasificar un celular en el intervalo de precio correspondiente. Para resolver este problema se tienen los datos que caracterizan a los teléfonos móviles como:  
+-la energía de la batería,
+-las especificaciones de la cámara,
+-el soporte de red,
+-la memoria,
+-las dimensiones de la pantalla,
+-obviamente los intervalos de los precios y otros atributos.
+Para este problema se hicieron estudios de los datos, se eliminaron "variables independientes" que no explicaban la variable dependiente y se aplicaron distintos métodos de machine learning.  
+Fuente data:  
+https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+
 # Nota importante:  
 Este proyecto fue generado a partir de Python v3.11 y se utilizaron las librerias que están en el archivo last_requirements.txt. Para el código del proyecto se debe generar un entorno, a continuación se muestra como:  
 

@@ -5,7 +5,8 @@ Este proyecto consiste en clasificar un celular en el intervalo de precio corres
 - el soporte de red,  
 - la memoria,  
 - las dimensiones de la pantalla,  
-- obviamente los intervalos de los precios y otros atributos.  
+- obviamente los intervalos de los precios y otros atributos.
+
 Para este problema se hicieron estudios de los datos, se eliminaron "variables independientes" que no explicaban la variable dependiente y se aplicaron distintos métodos de machine learning.  
 
 Fuente data:  

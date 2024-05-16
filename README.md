@@ -1,11 +1,11 @@
 # Acerca del proyecto:  
 Este proyecto consiste en clasificar un celular en el intervalo de precio correspondiente. Para resolver este problema se tienen los datos que caracterizan a los teléfonos móviles como:  
--la energía de la batería,
--las especificaciones de la cámara,
--el soporte de red,
--la memoria,
--las dimensiones de la pantalla,
--obviamente los intervalos de los precios y otros atributos.
+-la energía de la batería,  
+-las especificaciones de la cámara,  
+-el soporte de red,  
+-la memoria,  
+-las dimensiones de la pantalla,  
+-obviamente los intervalos de los precios y otros atributos.  
 Para este problema se hicieron estudios de los datos, se eliminaron "variables independientes" que no explicaban la variable dependiente y se aplicaron distintos métodos de machine learning.  
 
 Fuente data:  
